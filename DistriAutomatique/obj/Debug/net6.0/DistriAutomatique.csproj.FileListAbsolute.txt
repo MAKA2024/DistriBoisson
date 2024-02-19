@@ -1,0 +1,14 @@
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\bin\Debug\net6.0\DistriAutomatique.exe
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\bin\Debug\net6.0\DistriAutomatique.deps.json
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\bin\Debug\net6.0\DistriAutomatique.runtimeconfig.json
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\bin\Debug\net6.0\DistriAutomatique.dll
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\bin\Debug\net6.0\DistriAutomatique.pdb
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.AssemblyInfoInputs.cache
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.AssemblyInfo.cs
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.csproj.CoreCompileInputs.cache
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.dll
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\refint\DistriAutomatique.dll
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.pdb
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\DistriAutomatique.genruntimeconfig.cache
+C:\Users\rahho\source\repos\DistriAutomatique\DistriAutomatique\obj\Debug\net6.0\ref\DistriAutomatique.dll

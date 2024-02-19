@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dBQn/7ELwZNR3DJlvqxV56/QVhGsFF0vfyBDO37Je4FJ/gOtmMwkG7OW+zGj6pcWuu5nfWuHP98cz5YVMYpKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahho\\source\\repos\\DistriAutomatique\\DistriAutomatique\\DistriAutomatique.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rahho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rahho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\rahho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
